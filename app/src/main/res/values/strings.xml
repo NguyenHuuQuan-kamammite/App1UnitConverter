@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App 1.Unit Converter</string>
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Foot</item>
+    </string-array>
+
 </resources>
